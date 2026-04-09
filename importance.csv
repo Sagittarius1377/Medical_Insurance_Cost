@@ -1,0 +1,9 @@
+Feature,Importance
+smoker_yes,0.8453623
+bmi,0.06597428
+age,0.046801493
+children,0.012946027
+sex_male,0.009452303
+region_southwest,0.008383884
+region_southeast,0.006078516
+region_northwest,0.005001212
