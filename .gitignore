@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# environment variables
+.env
+
+# docker (we run docker from outside the project)
+Dockerfile
+.dockerignore
